@@ -2,7 +2,7 @@
   {
     "Id": "JBLProduct1",
     "ProductName": "JBL Vibe Beam",
-    "GraphicName": "jbl_vibe_beam.jpg",
+    "GraphicName": "vibebeam.jpg",
     "CostPrice": "50",
     "MSRP": "100",
     "QtyOnHand": "100",
@@ -13,7 +13,7 @@
   {
     "Id": "JBLProduct2",
     "ProductName": "JBL Tour Pro 2",
-    "GraphicName": "jbl_tour_pro_2.jpg",
+    "GraphicName": "tourpro2.jpg",
     "CostPrice": "200",
     "MSRP": "400",
     "QtyOnHand": "80",
@@ -24,7 +24,7 @@
   {
     "Id": "JBLProduct3",
     "ProductName": "JBL Soundgear Sense",
-    "GraphicName": "jbl_soundgear_sense.jpg",
+    "GraphicName": "soundgearsense.jpg",
     "CostPrice": "150",
     "MSRP": "200",
     "QtyOnHand": "150",
@@ -35,7 +35,7 @@
   {
     "Id": "JBLProduct4",
     "ProductName": "JBL Live Free 2",
-    "GraphicName": "jbl_live_free_2.jpg",
+    "GraphicName": "livefree2.jpg",
     "CostPrice": "150",
     "MSRP": "200",
     "QtyOnHand": "90",
@@ -46,7 +46,7 @@
   {
     "Id": "JBLProduct5",
     "ProductName": "JBL T110",
-    "GraphicName": "jbl_t110.jpg",
+    "GraphicName": "t110.jpg",
     "CostPrice": "5",
     "MSRP": "15",
     "QtyOnHand": "70",
@@ -57,7 +57,7 @@
   {
     "Id": "SonyProduct1",
     "ProductName": "Sony WF-C500",
-    "GraphicName": "sony_wf_c500.jpg",
+    "GraphicName": "wfc500.jpg",
     "CostPrice": "80",
     "MSRP": "130",
     "QtyOnHand": "100",
@@ -68,7 +68,7 @@
   {
     "Id": "SonyProduct2",
     "ProductName": "Sony WIC100",
-    "GraphicName": "sony_wic100.jpg",
+    "GraphicName": "wic100.jpg",
     "CostPrice": "20",
     "MSRP": "50",
     "QtyOnHand": "80",
@@ -79,7 +79,7 @@
   {
     "Id": "SonyProduct3",
     "ProductName": "Sony LinkBuds S",
-    "GraphicName": "sony_linkbuds_s.jpg",
+    "GraphicName": "linkbudss.jpg",
     "CostPrice": "200",
     "MSRP": "300",
     "QtyOnHand": "60",
@@ -90,7 +90,7 @@
   {
     "Id": "SonyProduct4",
     "ProductName": "Sony WF-C700N",
-    "GraphicName": "sony_wf_c700n.jpg",
+    "GraphicName": "wfc700n.jpg",
     "CostPrice": "150",
     "MSRP": "200",
     "QtyOnHand": "90",
@@ -101,7 +101,7 @@
   {
     "Id": "SonyProduct5",
     "ProductName": "Sony WF1000XM5/B",
-    "GraphicName": "sony_wf1000xm5_b.jpg",
+    "GraphicName": "wf1000xm5b.jpg",
     "CostPrice": "200",
     "MSRP": "400",
     "QtyOnHand": "70",
@@ -112,7 +112,7 @@
   {
     "Id": "SamsungProduct1",
     "ProductName": "Samsung Galaxy Buds2 Pro",
-    "GraphicName": "samsung_galaxy_buds2_pro.jpg",
+    "GraphicName": "buds2pro.jpg",
     "CostPrice": "200",
     "MSRP": "290",
     "QtyOnHand": "150",
@@ -123,7 +123,7 @@
   {
     "Id": "SamsungProduct2",
     "ProductName": "Samsung Galaxy Buds FE",
-    "GraphicName": "samsung_galaxy_buds_fe.jpg",
+    "GraphicName": "budsfe.jpg",
     "CostPrice": "70",
     "MSRP": "140",
     "QtyOnHand": "100",
@@ -134,7 +134,7 @@
   {
     "Id": "SamsungProduct3",
     "ProductName": "Samsung Galaxy Buds3 Pro",
-    "GraphicName": "samsung_galaxy_buds3_pro.jpg",
+    "GraphicName": "buds3pro.jpg",
     "CostPrice": "250",
     "MSRP": "330",
     "QtyOnHand": "80",
@@ -145,7 +145,7 @@
   {
     "Id": "SamsungProduct4",
     "ProductName": "Samsung Galaxy Buds Live",
-    "GraphicName": "samsung_galaxy_buds_live.jpg",
+    "GraphicName": "budslive.jpg",
     "CostPrice": "90",
     "MSRP": "180",
     "QtyOnHand": "200",
@@ -156,7 +156,7 @@
   {
     "Id": "SamsungProduct5",
     "ProductName": "Samsung 3.5mm Earphones",
-    "GraphicName": "samsung_3_5mm_earphones.jpg",
+    "GraphicName": "3_5mm.jpg",
     "CostPrice": "5",
     "MSRP": "20",
     "QtyOnHand": "120",

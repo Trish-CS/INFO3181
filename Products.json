@@ -1,0 +1,167 @@
+[
+  {
+    "Id": "JBLProduct1",
+    "ProductName": "JBL Vibe Beam",
+    "GraphicName": "jbl_vibe_beam.jpg",
+    "CostPrice": "50",
+    "MSRP": "100",
+    "QtyOnHand": "100",
+    "QtyOnBackOrder": "20",
+    "Description": "These earbuds deliver high-quality audio with the 8mm drivers featuring JBL Deep Bass Sound and give up to 32 hours of total battery life for all-day entertainment.",
+    "Brand": "JBL"
+  },
+  {
+    "Id": "JBLProduct2",
+    "ProductName": "JBL Tour Pro 2",
+    "GraphicName": "jbl_tour_pro_2.jpg",
+    "CostPrice": "200",
+    "MSRP": "400",
+    "QtyOnHand": "80",
+    "QtyOnBackOrder": "15",
+    "Description": "Tune out all of life's distractions with the JBL Tour Pro 2 in-ear wireless headphones. Their noise cancelling technology lets you immerse yourself in JBL Pro Sound from any Bluetooth-enabled device.",
+    "Brand": "JBL"
+  },
+  {
+    "Id": "JBLProduct3",
+    "ProductName": "JBL Soundgear Sense",
+    "GraphicName": "jbl_soundgear_sense.jpg",
+    "CostPrice": "150",
+    "MSRP": "200",
+    "QtyOnHand": "150",
+    "QtyOnBackOrder": "30",
+    "Description": "Listen to your favourite music for hours when you’re wearing the JBL Soundgear Sense Open-Ear true wireless earbuds. OpenSound Technology maintain an open design that ensures many hours of comfortable listening.",
+    "Brand": "JBL"
+  },
+  {
+    "Id": "JBLProduct4",
+    "ProductName": "JBL Live Free 2",
+    "GraphicName": "jbl_live_free_2.jpg",
+    "CostPrice": "150",
+    "MSRP": "200",
+    "QtyOnHand": "90",
+    "QtyOnBackOrder": "25",
+    "Description": "Access the power of JBL Signature Sound with the JBL Live Free 2 in-ear wireless headphones. The slim pill design fits snugly into your ears, allowing you to immerse yourself in dynamic sound.",
+    "Brand": "JBL"
+  },
+  {
+    "Id": "JBLProduct5",
+    "ProductName": "JBL T110",
+    "GraphicName": "jbl_t110.jpg",
+    "CostPrice": "5",
+    "MSRP": "15",
+    "QtyOnHand": "70",
+    "QtyOnBackOrder": "10",
+    "Description": "Add premium quality music to your everyday life with the JBL T110 in-ear headphones. Sound Isolating design blocks out the ambient sound and lets you listen to pure, unadulterated music.",
+    "Brand": "JBL"
+  },
+  {
+    "Id": "SonyProduct1",
+    "ProductName": "Sony WF-C500",
+    "GraphicName": "sony_wf_c500.jpg",
+    "CostPrice": "80",
+    "MSRP": "130",
+    "QtyOnHand": "100",
+    "QtyOnBackOrder": "20",
+    "Description": "Listen to your favourite songs on your way to work with these Sony WF-C500 wireless earbuds. They provide up to 10 hours of battery life, and up to 20 hours with a charging case so you are never out of music.",
+    "Brand": "Sony"
+  },
+  {
+    "Id": "SonyProduct2",
+    "ProductName": "Sony WIC100",
+    "GraphicName": "sony_wic100.jpg",
+    "CostPrice": "20",
+    "MSRP": "50",
+    "QtyOnHand": "80",
+    "QtyOnBackOrder": "15",
+    "Description": "Enjoy music, audiobooks, and more on the go with the Sony WIC100 in-ear Bluetooth headphones. Connect wirelessly via Bluetooth to compatible devices for quick and easy setup.",
+    "Brand": "Sony"
+  },
+  {
+    "Id": "SonyProduct3",
+    "ProductName": "Sony LinkBuds S",
+    "GraphicName": "sony_linkbuds_s.jpg",
+    "CostPrice": "200",
+    "MSRP": "300",
+    "QtyOnHand": "60",
+    "QtyOnBackOrder": "10",
+    "Description": "Automate your audio experience with the LinkBuds S truly wireless noise cancelling headphones. These headphones feature smart technology to connect your online and offline worlds like never before.",
+    "Brand": "Sony"
+  },
+  {
+    "Id": "SonyProduct4",
+    "ProductName": "Sony WF-C700N",
+    "GraphicName": "sony_wf_c700n.jpg",
+    "CostPrice": "150",
+    "MSRP": "200",
+    "QtyOnHand": "90",
+    "QtyOnBackOrder": "15",
+    "Description": "Block out everything but your music with the Sony WF-C700N in-ear wireless headphones. These premium headphones deliver powerful, ultra-clear sound, with noise cancelling technology to improve your focus.",
+    "Brand": "Sony"
+  },
+  {
+    "Id": "SonyProduct5",
+    "ProductName": "Sony WF1000XM5/B",
+    "GraphicName": "sony_wf1000xm5_b.jpg",
+    "CostPrice": "200",
+    "MSRP": "400",
+    "QtyOnHand": "70",
+    "QtyOnBackOrder": "12",
+    "Description": "Escape into your own world of aural bliss with the Sony WF-1000XM5 truly wireless headphones. With its specially designed drivers, it delivers high-resolution audio with its wide frequency coverage, thumping bass, and crisp vocals.",
+    "Brand": "Sony"
+  },
+  {
+    "Id": "SamsungProduct1",
+    "ProductName": "Samsung Galaxy Buds2 Pro",
+    "GraphicName": "samsung_galaxy_buds2_pro.jpg",
+    "CostPrice": "200",
+    "MSRP": "290",
+    "QtyOnHand": "150",
+    "QtyOnBackOrder": "20",
+    "Description": "Get the next-level sound experience with the Samsung Galaxy Buds2 Pro Truly Wireless headphones. Featuring Hi-Fi sound quality your favourite audio content comes alive with this in-ear headphones.",
+    "Brand": "Samsung"
+  },
+  {
+    "Id": "SamsungProduct2",
+    "ProductName": "Samsung Galaxy Buds FE",
+    "GraphicName": "samsung_galaxy_buds_fe.jpg",
+    "CostPrice": "70",
+    "MSRP": "140",
+    "QtyOnHand": "100",
+    "QtyOnBackOrder": "25",
+    "Description": "Meet Galaxy Buds FE earbuds, your new favourite everyday audio experience. These in-ear noise cancelling earbuds fit comfortably into your day, combining your favourite Galaxy innovations on the go.",
+    "Brand": "Samsung"
+  },
+  {
+    "Id": "SamsungProduct3",
+    "ProductName": "Samsung Galaxy Buds3 Pro",
+    "GraphicName": "samsung_galaxy_buds3_pro.jpg",
+    "CostPrice": "250",
+    "MSRP": "330",
+    "QtyOnHand": "80",
+    "QtyOnBackOrder": "10",
+    "Description": "Enjoy the new shape of sound with the Samsung Galaxy Buds3 Pro. These true wireless earbuds adapt to how you wear them, so you get a personalized listening experience that suits you.",
+    "Brand": "Samsung"
+  },
+  {
+    "Id": "SamsungProduct4",
+    "ProductName": "Samsung Galaxy Buds Live",
+    "GraphicName": "samsung_galaxy_buds_live.jpg",
+    "CostPrice": "90",
+    "MSRP": "180",
+    "QtyOnHand": "200",
+    "QtyOnBackOrder": "30",
+    "Description": "Make a bold fashion statement as you enjoy amazing audio with the Samsung Galaxy Buds Live headphones. With the included charging case, you can get up to 22 hours on a single charge for all-day listening.",
+    "Brand": "Samsung"
+  },
+  {
+    "Id": "SamsungProduct5",
+    "ProductName": "Samsung 3.5mm Earphones",
+    "GraphicName": "samsung_3_5mm_earphones.jpg",
+    "CostPrice": "5",
+    "MSRP": "20",
+    "QtyOnHand": "120",
+    "QtyOnBackOrder": "15",
+    "Description": "Featuring 2-way speakers with a dedicated woofer and tweeter contributing to a smooth sound signature, the Samsung 3.5mm Earphones offer rich audio that comes through clear and balanced.",
+    "Brand": "Samsung"
+  }
+]
